@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Made on Monday morning",
+      "description": "A test stream",
+      "userId": "102781978696816101234",
+      "id": 14
+    },
+    {
+      "title": "Creating a stream",
+      "description": "a STREAM_____HAS BEEN PATCHED, NOT PUT",
+      "userId": "102781978696816101234",
+      "id": 15
+    },
+    {
+      "title": "Lorem Ipsum",
+      "description": "Dolor sit amet consectetur",
+      "userId": "102781978696816101234",
+      "id": 16
+    },
+    {
+      "title": "Test4",
+      "description": "testing",
+      "userId": "102781978696816101234",
+      "id": 17
+    }
+  ]
+}
